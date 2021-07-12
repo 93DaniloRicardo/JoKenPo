@@ -1,0 +1,13 @@
+C:\Users\Milton\Documents\Projetos\JoKenPo\obj\Debug\netcoreapp3.1\JoKenPo.csprojAssemblyReference.cache
+C:\Users\Milton\Documents\Projetos\JoKenPo\obj\Debug\netcoreapp3.1\JoKenPo.AssemblyInfoInputs.cache
+C:\Users\Milton\Documents\Projetos\JoKenPo\obj\Debug\netcoreapp3.1\JoKenPo.AssemblyInfo.cs
+C:\Users\Milton\Documents\Projetos\JoKenPo\obj\Debug\netcoreapp3.1\JoKenPo.csproj.CoreCompileInputs.cache
+C:\Users\Milton\Documents\Projetos\JoKenPo\bin\Debug\netcoreapp3.1\JoKenPo.exe
+C:\Users\Milton\Documents\Projetos\JoKenPo\bin\Debug\netcoreapp3.1\JoKenPo.deps.json
+C:\Users\Milton\Documents\Projetos\JoKenPo\bin\Debug\netcoreapp3.1\JoKenPo.runtimeconfig.json
+C:\Users\Milton\Documents\Projetos\JoKenPo\bin\Debug\netcoreapp3.1\JoKenPo.runtimeconfig.dev.json
+C:\Users\Milton\Documents\Projetos\JoKenPo\bin\Debug\netcoreapp3.1\JoKenPo.dll
+C:\Users\Milton\Documents\Projetos\JoKenPo\bin\Debug\netcoreapp3.1\JoKenPo.pdb
+C:\Users\Milton\Documents\Projetos\JoKenPo\obj\Debug\netcoreapp3.1\JoKenPo.dll
+C:\Users\Milton\Documents\Projetos\JoKenPo\obj\Debug\netcoreapp3.1\JoKenPo.pdb
+C:\Users\Milton\Documents\Projetos\JoKenPo\obj\Debug\netcoreapp3.1\JoKenPo.genruntimeconfig.cache
